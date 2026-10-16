@@ -1,7 +1,7 @@
 # Biblioteca Comunitária Saber
 
 
-	Projeto desenvolvido durante o curso técnico de Informática, com o objetivo de praticar o 	desenvolvimento de uma API REST utilizando Python e FastAPI.
+Projeto desenvolvido durante o curso técnico de Informática, com o objetivo de praticar o desenvolvimento de uma API REST utilizando Python e FastAPI.
 
 
 
@@ -49,12 +49,12 @@
 ## Armazenamento de dados
 
 
-	Os livros são armazenados temporariamente em uma lista Python na memória. Por isso, os dados 	cadastrados são perdidos quando a aplicação é reiniciada.
+Os livros são armazenados temporariamente em uma lista Python na memória. Por isso, os dados 	cadastrados são perdidos quando a aplicação é reiniciada.
 
 
 
 ## Objetivo de aprendizagem
 
 
-	Este projeto foi desenvolvido para praticar os conceitos de API REST, operações CRUD, rotas, 	validação de dados e tratamento de erros HTTP.
+Este projeto foi desenvolvido para praticar os conceitos de API REST, operações CRUD, rotas, 	validação de dados e tratamento de erros HTTP.
 
