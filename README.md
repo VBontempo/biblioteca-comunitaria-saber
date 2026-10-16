@@ -5,10 +5,6 @@
 
 
 
-===========================================================================================================
-
-
-
 ## Funcionalidades
 
 
@@ -26,10 +22,6 @@
 
 
 
-===========================================================================================================
-
-
-
 ## Tecnologias utilizadas
 
 
@@ -41,24 +33,16 @@
 
 
 
-===========================================================================================================
-
-
-
 # Como executar o projeto
 
 
-1. Instale o Python.
+    1. Instale o Python.
 
-2. Instale as dependências necessárias.
+    2. Instale as dependências necessárias.
 
-3. Execute a aplicação.
+    3. Execute a aplicação.
 
-4. Acesse a documentação interativa da API pelo endereço `/docs`.
-
-
-
-===========================================================================================================
+    4. Acesse a documentação interativa da API pelo endereço `/docs`.
 
 
 
@@ -66,10 +50,6 @@
 
 
 	Os livros são armazenados temporariamente em uma lista Python na memória. Por isso, os dados 	cadastrados são perdidos quando a aplicação é reiniciada.
-
-
-
-===========================================================================================================
 
 
 
